@@ -1,0 +1,24 @@
+# Query: menu.webp
+# ContextLines: 1
+
+4 个结果 - 4 文件
+
+src/components/Footer.js:
+  17              <a
+  18:               href={require("../assets/menu01.jpeg")}
+  19                target="_blank"
+
+src/components/Navigation.js:
+  24          className="hover-effect"
+  25:         href={require("../assets/menu01.jpeg")}
+  26          target="_blank"
+
+src/components/pages/Confirmation.js:
+  19            className="redirect-button"
+  20:           href={require("../../assets/menu01.jpeg")}
+  21            target="_blank"
+
+src/components/sections/headingPages/Specials.js:
+  11                  <h1>This weeks specials</h1>
+  12:                 <a className="action-button" href={require('../../../assets/menu01.jpeg')} target="_blank" rel="noreferrer">Online Menu</a>
+  13              </article>

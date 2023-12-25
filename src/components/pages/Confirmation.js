@@ -1,4 +1,4 @@
-import HeroImage from "../../assets/food/food5.jpeg";
+import HeroImage from "../../assets/food/food05.jpg";
 import { Link } from "react-router-dom";
 export default function Confirmation() {
   return (
@@ -11,7 +11,7 @@ export default function Confirmation() {
       <section className="reserve-header-text">
         <h1>Your Reservation is Confirmed!</h1>
         <h4>A confirmation message has been sent to your email.</h4>
-        <h4>Thanks for dining with us!</h4>
+        <h4>Thanks</h4>
       </section>
 
       <section className="redirect-buttons">
